@@ -1,0 +1,23 @@
+{
+  "name": "Hangman",
+  "version": "1.0.0",
+  "description": "Week 11 Homework for GW Coding Bootcamp.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvmiramontes/Hangman.git"
+  },
+  "author": "Beverly Miramontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvmiramontes/Hangman/issues"
+  },
+  "homepage": "https://github.com/bvmiramontes/Hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "moviedb": "^0.2.10"
+  }
+}
